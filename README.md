@@ -1,0 +1,1 @@
+The source code and project repositories developed during the internship at Rail Wheel Factory are maintained under organizational access control and are protected by confidentiality policies.Due to security and Non-Disclosure Agreement (NDA) restrictions, the GitHub repositories and implementation details are not publicly accessible.
